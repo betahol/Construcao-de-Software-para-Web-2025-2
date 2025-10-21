@@ -1,0 +1,19 @@
+#tituloprincipal{
+    color: rgb(0, 110, 255);
+    text-align: center;
+}
+
+.capum{
+    text-align: right;
+    color: purple;
+}
+
+.capdois{
+    text-align: left;
+    color: deeppink;
+}
+
+.titulosecond{
+    text-align: left;
+    color: rgb(3, 110, 35);
+}
