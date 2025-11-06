@@ -1,0 +1,43 @@
+.container{
+    display: flexbox;
+}
+
+.item{
+    flex-grow: 1;
+    background-color: blue;
+    height: 10vh;
+    width: 10vh;
+}
+
+.item:hover{
+    background-color: blueviolet;
+    color: crimson;
+    height: 10vh;
+    width: 10vh;
+}
+
+.contdois{
+    display: flexbox;
+    justify-content: right;
+}
+
+.caixa1{
+    display: flexbox;
+    background-color: cadetblue;
+    flex-grow: 1;
+    height: 10vh;
+    width: 10vh;
+}
+.caixa3{
+    display: flexbox;
+    background-color: darksalmon;
+    flex-grow: 2;
+    height: 10vh;
+    width: 10vh;
+}
+
+.caixa3:hover{
+    background-color: darksalmon;
+    color: blanchedalmond;
+}
+
